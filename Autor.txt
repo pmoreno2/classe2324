@@ -2,3 +2,4 @@ Fes un fork i després fes un Pull Request, afegint el teu nom, cognom i les tev
 
 Llista d'alumnes i professors que participen:
 - Pedro Moreno (pmf)
+- Tomás Pérez Colomar
