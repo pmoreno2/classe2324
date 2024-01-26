@@ -4,4 +4,5 @@ Llista d'alumnes i professors que participen:
 - Pedro Moreno (pmf)
 - Tomás Pérez Colomar
 - Alejandro Gragera Rubio (AGR)
+- Mario cruz Garcia MCG
 - Pau Carbonell Pasero
